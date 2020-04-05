@@ -1,0 +1,8 @@
+{
+  "name": "restgeneratedtest",
+  "description": "A Django REST API",
+  "repository": "https://github.com/stephsalou/django_rest_generate_tets.git",
+  "logo": "",
+  "keywords": ["Django", "REST", "API"],
+  "addons": ["heroku-postgresql", "heroku-redis"]
+}

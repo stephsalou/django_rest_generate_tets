@@ -1,0 +1,21 @@
+Django ==3.0.1
+Pillow
+celery
+djangorestframework
+django-backblazeb2-storage
+django-cors-headers
+django-environ
+django-extensions
+django-filter
+django-debug-toolbar
+django-spa
+django-anymail
+gunicorn
+graphene
+graphene-django
+psycopg2-binary
+redis
+honcho
+ipython
+ipdb
+Werkzeug

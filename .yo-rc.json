@@ -1,0 +1,8 @@
+{
+  "generator-django-rest": {
+    "promptValues": {
+      "prod_branch": true,
+      "git_url": "https://github.com/stephsalou/django_rest_generate_tets.git"
+    }
+  }
+}
